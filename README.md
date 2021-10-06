@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @phoenixsk8z
-- 👀 I’m interested in Programming, Reading, Playing Games, Playing The Piano, Airsoft, Creating Games.
-- 🌱 I’m currently learning Javascript, Lua, Django, Python, CSS, HTML, SQL.
-- 📫 How to reach me | Discord HighIQNerd#2813 | phoenixocean193@gmail.com | 
+- 👋 Hi, I’m Phoenix
+- 👀 I’m interested in Programming, Reading, Competitive Games, Math, Piano, Exercise, Learning
+- 🌱 I’m currently learning Javascript, Lua, Django, Python, CSS3, HTML5, SQL.
 
 <!---
 phoenixsk8z/phoenixsk8z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
